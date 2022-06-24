@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mshary
 - 👀 I’m interested in advance C, C++, and Python topics specially related to secure communication and AI.
 - 🌱 I’m currently learning mobile app development for audio / video recognition and deep-fake.
-- 💞️ I’m looking to collaborate pattern matching algorithms.
+- 💞️ I’m looking to collaborate on VoIP projects and pattern matching algorithms.
 - 📫 How to reach me? Write to me at shaheryarkh@gmail.com
 
 <!---
